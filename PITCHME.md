@@ -109,13 +109,13 @@ Note:
 
 ---
 
-## 7. Manual approval gate
+## 7. Manual approval
 
 ![Manual gate](pitch/pipeline/7.png)
 
 ---
 
-## 8. Deplpy to production
+## 8. Deplpy to prod
 
 ![Production](pitch/pipeline/8.png)
 
