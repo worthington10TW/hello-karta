@@ -28,6 +28,8 @@ Note:
 - provide standardized development feedback loops
 - enable fast product iterations.
 
+---
+
 ## Triggers
 
 - code commit
