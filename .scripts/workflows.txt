@@ -20,7 +20,7 @@ workflows:
           filters:
             branches:
               only:
-                - complete
+                - master
           requires:
             - publish
       - staging-e2e:
@@ -31,14 +31,14 @@ workflows:
           filters:
             branches:
               only:
-                - complete
+                - master
           requires:
             - staging-e2e
       - deploy-to-production:
           filters:
             branches:
               only:
-                - complete
+                - master
           requires:
             - approve-release
       - ping:
