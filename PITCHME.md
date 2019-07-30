@@ -127,10 +127,9 @@ Note:
 
 ---
 
-## How are we building it?
+## What will we be using?
 
-![logo](pitch/tools/babel.png&size=50px)
-![logo](pitch/tools/circleci.png)
+![logo](pitch/tools/babel.png)
 ![logo](pitch/tools/cypress.jpeg)
 ![logo](pitch/tools/docker.png)
 ![logo](pitch/tools/github.png)
@@ -141,4 +140,8 @@ Note:
 
 ---
 
-## What should I have setup?
+## What accounts will I need?
+
+![logo](pitch/tools/circleci.png)
+![logo](pitch/tools/github.png)
+![logo](pitch/tools/heroku.png)
