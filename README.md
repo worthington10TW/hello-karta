@@ -1,5 +1,5 @@
 
-# [Path to production](https://gitpitch.com/worthington10TW/hello-karta/pitch)
+# [Path to production](https://gitpitch.com/worthington10TW/hello-karta/)
 
 ## What are we building?
 
