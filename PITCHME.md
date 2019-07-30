@@ -121,13 +121,23 @@ Note:
 
 ---
 
-## TADA'!'
+## TADA!
 
 ![Pipeline](pipeline.png)
 
 ---
 
 ## How are we building it?
+
+![logo](pitch/tools/babel.png)
+![logo](pitch/tools/circleci.png)
+![logo](pitch/tools/cypress.png)
+![logo](pitch/tools/docker.png)
+![logo](pitch/tools/github.png)
+![logo](pitch/tools/heroku.png)
+![logo](pitch/tools/mocha.png)
+![logo](pitch/tools/npm.png)
+![logo](pitch/tools/vuejs.png)
 
 ---
 
