@@ -129,9 +129,9 @@ Note:
 
 ## How are we building it?
 
-![logo](pitch/tools/babel.png)
+![logo](pitch/tools/babel.png&size=50px)
 ![logo](pitch/tools/circleci.png)
-![logo](pitch/tools/cypress.png)
+![logo](pitch/tools/cypress.jpeg)
 ![logo](pitch/tools/docker.png)
 ![logo](pitch/tools/github.png)
 ![logo](pitch/tools/heroku.png)
