@@ -2,15 +2,23 @@
 
 ## Matthew Worthington
 
+Note:
+
+- Developer @ ThoughtWorks
+- Twitter: worthington10
+
 ---
 
 ## What is a CI/CD pipeline?
 
-A CI/CD pipeline helps you automate steps in your software delivery process
+- initiates code builds
+- runs automated tests
+- deploys your code
 
-- initiating code builds
-- running automated tests
-- deploying to a staging or production environment. 
+Note:
+
+- A CI/CD pipeline helps you automate steps in your software delivery process
+- One artefact, promoted through a single pipeline, deployed to many environments
 
 ---
 
@@ -19,3 +27,15 @@ A CI/CD pipeline helps you automate steps in your software delivery process
 - remove manual errors
 - provide standardized development feedback loops
 - enable fast product iterations.
+
+## Triggers
+
+- code commit
+- scheduled/ CRON
+- manual
+
+Note:
+
+- Each change in code triggers an automated build-and-test sequence for the given project, providing feedback to the engineering team
+- You may want to run tests constantly over a period or perform cleanup tasks
+- In some situations a manual triggered pipeline or stage may be necessary, you may require sign-off from QA or have set release dates
