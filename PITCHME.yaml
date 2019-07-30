@@ -1,6 +1,6 @@
 
 published : true
-# theme            : sky
+theme            : template
 
 # theme-background : [ "#5289F7" ]
 theme-headline   : [ "Work Sans", "white", "none" ]
