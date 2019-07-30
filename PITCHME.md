@@ -61,15 +61,11 @@ Note:
 
 ---
 
-## Let's get to production!
+## What are we building?
 
 @snapend
 
-@fa[rocket fa-5x fa-spin]
-
----
-
-## What are we building?
+### @fa[rocket fa-5x fa-spin]
 
 ---
 
