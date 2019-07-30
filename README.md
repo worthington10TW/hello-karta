@@ -8,7 +8,7 @@ A path to your own production!
 
 ## Why are we building it?
 
-A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment. Automated pipelines remove manual errors, provide standardized development feedback loops and enable fast product iterations.
+A CI/CD pipeline helps you automate steps in your software delivery process, such as initiating code builds, running automated tests, and deploying to a staging or production environment. Automated pipelines remove manual errors, provide standardized feedback loops and enable fast product iterations.
 
 During this session we will create, test, build, run, deploy a VueJS app.
 

@@ -26,7 +26,7 @@ Note:
 
 - Reduce cost of deployment
 - Remove manual errors
-- Provide standardized development feedback loops
+- Provide standardized feedback loops
 - Enable fast product iterations.
 
 ---
@@ -61,11 +61,11 @@ Note:
 
 ---
 
-## What are we building?
+## ‘You build it, you run it’ 
 
 @snapend
 
-### @fa[rocket fa-5x fa-spin]
+@fa[rocket fa-5x fa-spin]
 
 ---
 
