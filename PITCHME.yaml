@@ -1,3 +1,4 @@
 
 published : true
 theme     : template
+theme-text : [ "Ubuntu", "#5289F7", "none" ]
