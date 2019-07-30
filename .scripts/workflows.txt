@@ -28,17 +28,9 @@ workflows:
             - deploy-to-staging
       - approve-release:
           type: approval
-          filters:
-            branches:
-              only:
-                - master
           requires:
             - staging-e2e
       - deploy-to-production:
-          filters:
-            branches:
-              only:
-                - master
           requires:
             - approve-release
       - ping:
