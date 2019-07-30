@@ -71,6 +71,58 @@ Note:
 
 ## What are we building?
 
+---
+
+## 1. Build
+
+![Build](pitch/pipeline/1.png)
+
+---
+
+## 2. Code quality gate
+
+![Quality gate](pitch/pipeline/2.png)
+
+---
+
+## 3. Test automation
+
+![Test](pitch/pipeline/3.png)
+
+---
+
+## 4. Publish
+
+![Publish](pitch/pipeline/4.png)
+
+---
+
+## 5. Deploy to staging
+
+![Staging](pitch/pipeline/5.png)
+
+---
+
+## 6. Acceptance tests
+
+![Smoke](pitch/pipeline/6.png)
+
+---
+
+## 7. Manual approval gate
+
+![Manual gate](pitch/pipeline/7.png)
+
+---
+
+## 8. Deplpy to production
+
+![Production](pitch/pipeline/8.png)
+
+---
+
+## TADA'!'
+
 ![Pipeline](pipeline.png)
 
 ---
