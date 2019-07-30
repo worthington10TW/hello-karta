@@ -1,6 +1,6 @@
 # Get to production!
 
-## Matthew Worthington
+Matthew Worthington
 
 Note:
 
