@@ -190,7 +190,7 @@ Note:
 
 ---
 
-## 8. Deplpy to prod
+## 8. Deploy to prod
 
 ![Production](pitch/pipeline/8.png)
 
