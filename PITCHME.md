@@ -204,7 +204,7 @@ Note:
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/babel.png)
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/cypress.jpeg)
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/docker.png)
-![logo]https://raw.githubusercontent.com/worthington10TW/hello-karta/master/(pitch/tools/github.png)
+![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/github.png)
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/heroku.png)
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/mocha.png)
 ![logo](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/tools/npm.png)
@@ -299,7 +299,7 @@ chmod +x ./.scripts/app-builder.sh
 
 [https://[your-app-name].herokuapp.com/](https://[your-app-name].herokuapp.com/)
 [https://[your-app-name]-staging.herokuapp.com/](https://[your-app-name]-staging.herokuapp.com/)
-![NewApp](pitch/plan/NewApp.png)
+![NewApp](ttps://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/plan/NewApp.png)
 
 ---
 
