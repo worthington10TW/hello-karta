@@ -299,7 +299,7 @@ chmod +x ./.scripts/app-builder.sh
 
 [https://[your-app-name].herokuapp.com/](https://[your-app-name].herokuapp.com/)
 [https://[your-app-name]-staging.herokuapp.com/](https://[your-app-name]-staging.herokuapp.com/)
-![NewApp](ttps://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/plan/NewApp.png)
+![NewApp](https://raw.githubusercontent.com/worthington10TW/hello-karta/master/pitch/plan/NewApp.png)
 
 ---
 
